@@ -1,0 +1,17 @@
+booking_id,movie,show,seat
+3,Leo,10:30AM,A4
+4,Leo,10:30AM,E4
+5,Leo,10:30AM,E5
+6,jai,10:30AM,A3
+7,jai,10:30AM,A5
+8,Leo,10:30AM,A5
+9,Leo,10:30AM,A1
+10,Leo,10:30AM,A2
+11,Leo,10:30AM,E6
+12,Leo,10:30AM,D5
+13,Leo,10:30AM,A7
+14,Leo,10:30AM,D7
+15,helloworld,08:30PM,E6
+16,helloworld,08:30PM,E7
+17,helloworld,08:30PM,E8
+18,helloworld,08:30PM,E9
